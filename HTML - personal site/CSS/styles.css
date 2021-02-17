@@ -1,0 +1,40 @@
+    body {
+        background-color: #f4eeed;
+        color: rgb(74, 75, 72)
+    }
+    
+    h1 {
+        color: #999b84;
+    }
+    
+    h3 {
+        color: #999b84;
+    }
+    
+    hr {
+        border-style: dotted none none;
+        border-color: white;
+        border-width: 5px;
+        height: 1px;
+        width: 15%;
+    }
+    
+    img {
+        height: 350px;
+        width: 350px;
+    }
+    
+    #myHobbies {
+        color: #d8ac9c
+    }
+    /* <!-- 
+    #d8ac9c 
+    #999b84 
+    #efd9d1 
+    #f4eeed
+
+    #f5efe3
+    #e6e7e5
+    #f7d3ba
+    #a6aa9c
+--> */
